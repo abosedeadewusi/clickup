@@ -17,17 +17,15 @@ This workspace was designed to manage a **complete digital marketing campaign li
 
 The project was broken into **5 key phases:**
 
-| Phase | Description |
+ **PREP**: Team roster setup, stakeholder interviews, tracking meetings, asset collection 
 
-| **PREP** | Team roster setup, stakeholder interviews, tracking meetings, asset collection 
+ **PLAN**: Campaign strategy, content planning, timeline mapping 
 
-| **PLAN** | Campaign strategy, content planning, timeline mapping 
+ **BUILD**: Asset creation, account setups (GA4, Google Ads, YouTube, etc.) 
 
-| **BUILD** | Asset creation, account setups (GA4, Google Ads, YouTube, etc.) 
+ **IMPLEMENT**: Campaign execution and deployment 
 
-| **IMPLEMENT** | Campaign execution and deployment |
-
-| **LAUNCH CAMPAIGN** | Go-live, monitoring, and reporting |
+ **LAUNCH CAMPAIGN**: Go-live, monitoring, and reporting 
 
 # Key Features of This Setup
 
