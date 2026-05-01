@@ -19,10 +19,14 @@ The project was broken into **5 key phases:**
 
 | Phase | Description |
 
-| **PREP** | Team roster setup, stakeholder interviews, tracking meetings, asset collection |
-| **PLAN** | Campaign strategy, content planning, timeline mapping |
-| **BUILD** | Asset creation, account setups (GA4, Google Ads, YouTube, etc.) |
+| **PREP** | Team roster setup, stakeholder interviews, tracking meetings, asset collection 
+
+| **PLAN** | Campaign strategy, content planning, timeline mapping 
+
+| **BUILD** | Asset creation, account setups (GA4, Google Ads, YouTube, etc.) 
+
 | **IMPLEMENT** | Campaign execution and deployment |
+
 | **LAUNCH CAMPAIGN** | Go-live, monitoring, and reporting |
 
 # Key Features of This Setup
