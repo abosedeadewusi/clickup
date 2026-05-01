@@ -43,6 +43,7 @@ The project was broken into **5 key phases:**
 - Ensured **no asset or account setup was missed** before launch
 - Created a **repeatable template** for future campaigns
 
+# Preview
 clickup-dashboard.png https://github.com/abosedeadewusi/clickup/blob/c00991e0fd92bce981b7165c028d39ec57dc4b99/Clickup%20Dashboard.jpg
 
 # Built By
